@@ -1,6 +1,6 @@
 <?php
 // Set your server key (Note: Server key for sandbox and production mode are different)
-$server_key = 'Mid-server-YXDZtZ2QwxvSYg_wnBpvzSHR';
+$server_key = 'Mid-server-0ZQdQQcQ-bBVgCXtug64Is8q';
 // Set true for production, set false for sandbox
 $is_production = true;
 
